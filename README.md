@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amos Godwin
-- 👀 I’m interested in Building Interestign Mobile Applications
+- 👀 I’m interested in Building Interesting Mobile Applications
 - 🌱 I’m currently learning Very Advanced Flutter Topics
 - 💞️ I’m looking to collaborate on Any interesting project
 - 📫 How to reach me amosgodwin500@gmail.com
