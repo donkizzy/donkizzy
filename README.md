@@ -15,8 +15,8 @@ I build AI systems, the services behind them, and the apps people use to interac
 ## What I work with
 
 - **Applied AI** — Python, FastAPI, hybrid retrieval, pgvector, retrieval evaluation, and LLM tool calling
-- **Backend** — TypeScript, NestJS, PostgreSQL, MySQL, Redis, and BullMQ
-- **Apps** — Flutter and Dart for mobile, React and TypeScript for web
+- **Backend** — TypeScript,FastAPI, NestJS, PostgreSQL, MySQL, Redis, and BullMQ
+- **Apps** — Kotlin, Swift, Flutter and Dart for mobile, React and TypeScript for web
 
 ## Open source
 
